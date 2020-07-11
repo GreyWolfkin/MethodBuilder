@@ -1,0 +1,13 @@
+CLASS Sphere
+int index
+String name
+String color
+String desc
+String owner
+float radius
+float weight
+float density
+String material
+String texture
+float buoyancy
+float elasticity
